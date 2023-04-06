@@ -1,11 +1,11 @@
 module.exports = {
-	"title": "Eleventy Base Blog v8",
+	"title": "Eleventy | Kinsta Applicaton Hosting Starter",
 	"url": "https://example.com/",
 	"language": "en",
-	"description": "I am writing about my experiences as a naval navel-gazer.",
+	"description": "It's just a Kinsta Applicaton Hosting Starter",
 	"author": {
 		"name": "Your Name Here",
 		"email": "youremailaddress@example.com",
-		"url": "https://example.com/about-me/"
+		"url": "https://example.com/"
 	}
 }
