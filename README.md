@@ -1,4 +1,4 @@
-![Photo by Joshua Woroniecki on Unsplash](https://user-images.githubusercontent.com/2342458/204334325-7625b781-db8a-40b5-ac3c-91f2d7c8c526.png)
+![Eleventy](https://user-images.githubusercontent.com/2342458/230336594-86e2311a-3080-4d1c-9a01-03999a12136b.png)
 
 # Kinsta - Hello World - Eleventy
 
@@ -30,4 +30,4 @@ When deploying an application, Kinsta automatically creates a web process with `
 Whenever a deployment is initiated (through creating an application or re-deploying due to an incoming commit) the `npm build` command is run, followed by the `npm start` command.
 
 ## What is Eleventy
-Eleventy is a JavaScript-based static site generator that makes it easy for developers to create fast, modern, and customizable websites.. More information is available on the [11ty.dev](https://www.11ty.dev/) website.
+Eleventy is a JavaScript-based static site generator that makes it easy for developers to create fast, modern, and customizable websites. More information is available on the [11ty.dev](https://www.11ty.dev/) website.
