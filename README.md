@@ -1,11 +1,9 @@
-![Eleventy](https://user-images.githubusercontent.com/2342458/230336594-86e2311a-3080-4d1c-9a01-03999a12136b.png)
-
 # Kinsta - Hello World - Eleventy
 
 An example of how to deploy an **Eleventy** application on Kinsta.
 
 ---
-Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. You can focus on coding and building, and we'll take care of deployments with fast, scalable hosting. 
+Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. You can focus on coding and building, and we'll take care of deployments with fast, scalable hosting.
 
 At Kinsta, Static Sites are free, and you can host up to 100 sites on your account for completely free.
 
@@ -21,7 +19,7 @@ If you only have a Static Site Hosting account, we have detailed [Static Site Ho
 ## Setup
 <details>
 <summary><strong>Static Site Hosting</strong> [click to expand]</summary>
-	
+
 ### Dependency Management
 
 Kinsta automatically installs dependencies defined in your `package.json` file during the deployment process.
